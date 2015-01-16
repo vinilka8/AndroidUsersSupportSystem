@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="pref_send_report">Send crash reports</string>
+    <string name="pref_send_report_summary">Helps to fix bugs</string>
+    <string name="pref_sync_frequency">Sync frequency</string>
+    <string name="pref_sync_frequency_summary">Set the sync frequency</string>
+    <string name="pref_user_name">Set username</string>
+    <string name="pref_user_name_summary">Set your username</string>
+    <string name="pref_user_profile">User Profile</string>
+    <string name="pref_update_setting">Update Settings</string>
+     
+    <string name="app_name">AndroidSupportDisSystem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Camera">Camera</string>
+    <string name="Tree">Tree</string>
+    <string name="Settings">Settings</string>
+    <string name="mainmenu">Main Menue</string>
+    <string name="camerapage">Camera Page</string>
+    <string name="tree">Tree</string>
+    <string name="Addme">Add me</string>
+    <string name="Add">Add</string>
+    <string name="Delete">Delete</string>
+    <string name="Modify">Modify</string>
+    <string name="StartTree">Start Tree</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="AddButtons">Add buttons</string>
+    <string name="Deletethaat">Deletethat</string>
+    <string name="Location">Location</string>
+    <string name="Email">Email</string>
+    <string name="Picture">Picture</string>
+    <string name="Send">Send</string>
+    <string name="EmailAddress">Email Address!</string>
+    <string name="Subject">Subject</string>
+    <string name="Attachment">Attachment</string>
+    <string name="tph">Type message here</string>
+    <string name="tv_lable">tv_lable</string>
+    <string name="SetbtnName">Set a name of Button</string>
+    <string name="usertree">User tree</string>
+    <string name="PreferencesScreen">Preferences Screen</string>
+    <string name="showmyinfo">Show my infromation</string>
+    <string name="addcolleagues">Add Colleagues</string>
+    <string name="DeleteColleagues">Delete Colleagues</string>
+    <string name="EnterCollName">Enter a name</string>
+    <string name="Groups">Groups</string>
+    <string name="btnBack">Go Back</string>
+    <string name="userssettings">Users Settings</string>
+    <string name="showinfo">Show my infromation</string>
+    <string name="userprefs">Users preferences</string>
+    <string name="usersModTree">Users modify tree</string>
+
+</resources>

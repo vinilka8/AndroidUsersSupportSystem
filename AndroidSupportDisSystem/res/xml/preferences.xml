@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+         <PreferenceCategory
+		   android:title="User information" >
+		  <EditTextPreference
+		     android:key="scientificname"
+		     android:summary="Please enter your username"
+		     android:title="Scientist name" />
+		  <EditTextPreference
+		     android:key="shipname"
+		     android:summary="Enter your ship name"
+		     android:title="Ship name" />
+		  <EditTextPreference 
+		      android:key="email"
+		      android:summary="Enter your email"
+		      android:title="Email"/>
+		  <EditTextPreference 
+		      android:key="phoneNum"
+		      android:summary="Enter your phone number"
+		      android:title="Phone number"/>
+		 </PreferenceCategory>
+		 
+		 
+		 <PreferenceCategory
+		   android:summary="Username information"
+		   android:title="Settings" >
+		  <CheckBoxPreference
+		     android:key="checkBox"
+		     android:summary="On/Off"
+		     android:title="Keep me logged in" />
+		 </PreferenceCategory>
+        
+    </PreferenceScreen>
